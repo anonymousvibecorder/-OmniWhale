@@ -1,0 +1,18 @@
+# Environments
+.env
+
+# Logs and Data
+*.csv
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
